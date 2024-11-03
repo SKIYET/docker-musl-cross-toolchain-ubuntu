@@ -1,7 +1,7 @@
 # musl-cross toolchain for Ubuntu based docker image
 
 ![CI](https://github.com/abcfy2/docker-musl-cross-toolchain-ubuntu/actions/workflows/ci.yml/badge.svg)
-[![Docker Pulls](https://img.shields.io/docker/pulls/abcfy2/docker-musl-cross-toolchain-ubuntu)](https://hub.docker.com/r/abcfy2/docker-musl-cross-toolchain-ubuntu)
+[![Docker Pulls](https://img.shields.io/docker/pulls/abcfy2/musl-cross-toolchain-ubuntu)](https://hub.docker.com/r/abcfy2/musl-cross-toolchain-ubuntu)
 
 This image can be also found in [GHCR](https://github.com/abcfy2/docker-musl-cross-toolchain-ubuntu/pkgs/container/musl-cross-toolchain-ubuntu).
 
